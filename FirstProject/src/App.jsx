@@ -6,6 +6,8 @@ import FirstComponent from './components/FirstComponent'
 import MyComponents from './components/MyComponents'
 import TemplateExpressions from './components/TemplateExpressions'
 import Events from './components/Events'
+import Challange from './components/Challange'
+
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
       <TemplateExpressions/>
       <MyComponents/>
       <Events/>
+      <Challange/>
     </div>
   )
 }
